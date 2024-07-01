@@ -2,7 +2,7 @@
 
 Super passionate about DevOps and cloud as far as i can remember.
 
-![waleedeh's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![waleedeh's Stats](https://github-readme-stats.vercel.app/api?username=waleedeh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
